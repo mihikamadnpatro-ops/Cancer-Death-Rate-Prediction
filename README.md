@@ -78,8 +78,8 @@ Regularization paths for Ridge, Lasso, and ElasticNet are plotted to show how co
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/mihikamadnpatro-0ps//Cancer-Death-Rate-Prediction.git
+cd Cancer-Death-Rate-Prediction
 pip install numpy pandas matplotlib seaborn scipy statsmodels scikit-learn jupyter
 ```
 
